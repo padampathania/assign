@@ -310,7 +310,8 @@ label:hover:before {
 						<label for="lg_remember">remember</label>
 					</div>
 				</div>
-				<button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
+                            <a href='home.jsp'><button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
+                            </a>
 			</div>
 			<div class="etc-login-form">
 				<p>forgot your password? <a href="#">click here</a></p>
